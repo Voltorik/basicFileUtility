@@ -6,7 +6,7 @@
 Project Desription:
 
 -File Utility Application-
-Provides some file management, creation, and deletion functions.
+Provides basic file manipluation including creating new text files, reading from directories, moving files from one directory ot another, and deleting files. 
 
 Storage Info:
 A directory "storage" is automatically generated in the current working directory of the program upon execution.
