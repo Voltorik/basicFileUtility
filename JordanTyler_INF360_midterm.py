@@ -3,7 +3,7 @@
 # Midterm
 
 '''
-Project Desription:
+Project Description:
 
 -File Utility Application-
 Provides basic file manipluation including creating new text files, reading from directories, moving files from one directory ot another, and deleting files. 
